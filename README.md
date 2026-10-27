@@ -3,7 +3,7 @@
 **Deployment URL:** https://chada-varshini.onrender.com/
 
 **Student Name:** Chada Varshini  
-**Registration Number:** 252U1R1050  
+**Registration Number:** [Enter Your Registration Number]  
 **Section:** CSE - CORE (223 & S15)  
 **Course:** Backend Development Fundamentals  
 **Lab:** Lab 01 – Node.js and Express Server  
@@ -34,7 +34,7 @@ The project includes a basic HTTP server, three Express GET routes, and a custom
 - npm
 - Visual Studio Code
 - Web Browser
-- Render (Deployment Platform)
+- Render
 
 ## 4. Project Structure
 
@@ -46,7 +46,7 @@ Chada-Varshini/
 ├── package.json
 ├── package-lock.json
 ├── README.md
-└── screenshots/
+└── Screenshots/
     ├── home.png
     ├── about.png
     ├── time.png
@@ -120,19 +120,19 @@ The following screenshots show the output of the endpoints tested using a web br
 
 ### Home Endpoint – GET /
 
-![Home Endpoint](screenshots/home.png)
+![Home Endpoint](Screenshots/home.png)
 
 ### About Endpoint – GET /about
 
-![About Endpoint](screenshots/about.png)
+![About Endpoint](Screenshots/about.png)
 
 ### Time Endpoint – GET /time
 
-![Time Endpoint](screenshots/time.png)
+![Time Endpoint](Screenshots/time.png)
 
 ### Unknown Route – 404
 
-![404 Response](screenshots/not-found.png)
+![404 Response](Screenshots/not-found.png)
 
 ## 9. Testing
 
@@ -143,7 +143,7 @@ The application was tested locally using a web browser.
 - The time route displayed the current date and time.
 - An unknown route displayed a page-not-found message.
 
-Screenshots of these browser outputs are included in the `screenshots/` folder.
+Screenshots of these browser outputs are included in the `Screenshots/` folder.
 
 ## 10. Problems Faced and Solutions
 
@@ -162,11 +162,11 @@ Screenshots of these browser outputs are included in the `screenshots/` folder.
 ## 11. Notes
 
 - The application was developed using Node.js and Visual Studio Code.
-- The application is configured to run locally on port 3000.
-- The project is deployed using Render.
+- The application runs locally on port 3000.
+- The project deployment URL is provided at the top of this README.
 - No environment variables are required for local execution.
 - The `node_modules` directory and `.env` files should not be uploaded to GitHub.
-- Browser screenshots of all four endpoints are included in the `screenshots/` folder.
+- Browser screenshots of the four endpoints are included in the `Screenshots/` folder.
 
 ## 12. Conclusion
 
