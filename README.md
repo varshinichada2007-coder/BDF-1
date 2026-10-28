@@ -3,7 +3,7 @@
 **Deployment URL:** https://chada-varshini.onrender.com/
 
 **Student Name:** Chada Varshini  
-**Registration Number:** [Enter Your Registration Number]  
+**Registration Number:** 252U1R1050  
 **Section:** CSE - CORE (223 & S15)  
 **Course:** Backend Development Fundamentals  
 **Lab:** Lab 01 – Node.js and Express Server  
